@@ -207,6 +207,21 @@ header a:hover{
   width:250px;
 }
 
+/* My Blog*/
+#myblog{
+  float:center;
+  text-align: center;
+  width:90%;
+  padding:50px;
+}
+
+#myblog p{
+
+}
+
+#myblog img{
+  width:500px;
+}
 
 /* Newsletter */
 #newsletter{
