@@ -181,8 +181,10 @@ header a:hover{
 #services1{
   float:center;
   text-align: center;
-  width:90%;
   padding:50px;
+  /*background-image:url('../img/leaf1.png');
+  background-repeat: no-repeat;
+  background-size: 100%auto;*/
 }
 
 #services1 p{
