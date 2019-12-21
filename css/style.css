@@ -161,49 +161,65 @@ header a:hover{
   font-size:20px;
 }
 
-/* My Story*/
-#mystory1{
+/* About.html - My Story*/
+#mystory{
   float:center;
   text-align: center;
   width:90%;
   padding:50px;
 }
 
-#mystory1 p{
+#mystory p{
   float:right;
 }
 
-#mystory1 img{
+#mystory img{
+  width:350px;
+}
+
+/* Services.html*/
+#services1{
+  float:center;
+  text-align: center;
+  width:90%;
+  padding:50px;
+}
+
+#services1 p{
+  float:right;
+}
+
+#services1 img{
   width:250px;
 }
 
-#mystory2{
+#services2{
   float:center;
   text-align: center;
   width:90%;
   padding:50px;
 }
 
-#mystory2 p{
+#services2 p{
   float:right;
 }
 
-#mystory2 img{
+#services2 img{
   width:250px;
 }
 
-#mystory3{
+#services3{
   float:center;
   text-align: center;
   width:90%;
   padding:50px;
 }
 
-#mystory3 p{
+#services3 p{
   float:right;
 }
 
-#mystory3 img{
+#services3 img{
   width:250px;
 }
 
