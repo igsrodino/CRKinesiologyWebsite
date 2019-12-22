@@ -11,7 +11,17 @@ body{
   margin:auto;
   overflow:hidden;
 }
+/*
+.container_newsletter{
+  float:right;
+  padding-top:15px;
+  padding-right: 250px;
+}
 
+.container2{
+  padding-left: 250px;
+}
+*/
 ul{
   margin:0;
   padding:0;
