@@ -167,7 +167,6 @@ header a:hover{
   text-align: center;
   width:90%;
   padding:50px;
-
 }
 
 #mystory p{
@@ -183,15 +182,12 @@ header a:hover{
   float:center;
   text-align: center;
   padding:50px;
-  -webkit-box-shadow: 5px 5px 15px 5px #000000;
-  box-shadow: 5px 5px 15px 5px #000000;
   /*background-image:url('../img/leaf1.png');
   background-repeat: no-repeat;
   background-size: 100%auto;*/
 }
 
 #services1 p{
-  float:right;
 }
 
 #services1 img{
@@ -201,14 +197,10 @@ header a:hover{
 #services2{
   float:center;
   text-align: center;
-
   padding:50px;
-  -webkit-box-shadow: 5px 5px 15px 5px #000000;
-  box-shadow: 5px 5px 15px 5px #000000;
 }
 
 #services2 p{
-  float:right;
 }
 
 #services2 img{
@@ -218,14 +210,10 @@ header a:hover{
 #services3{
   float:center;
   text-align: center;
-
   padding:50px;
-  -webkit-box-shadow: 5px 5px 15px 5px #000000;
-  box-shadow: 5px 5px 15px 5px #000000;
 }
 
 #services3 p{
-  float:right;
 }
 
 #services3 img{
