@@ -220,7 +220,7 @@ header a:hover{
   width:250px;
 }
 
-/* My Blog*/
+/* Blog.html - My Blog*/
 #myblog{
   float:center;
   text-align: center;
@@ -236,7 +236,7 @@ header a:hover{
   width:500px;
 }
 
-/* Newsletter */
+/* Global - Newsletter */
 #newsletter{
   padding:15px;
   color:#ffffff;
@@ -258,7 +258,7 @@ header a:hover{
   width:250px;
 }
 
-/* Boxes */
+/* Global - Boxes */
 #boxes{
   margin-top:1px;
   margin-bottom:1px;
@@ -274,7 +274,6 @@ header a:hover{
 #boxes .box img{
   width:150px;
 }
-
 
 
 /* Sidebar */
